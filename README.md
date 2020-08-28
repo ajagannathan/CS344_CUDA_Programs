@@ -1,3 +1,3 @@
 # CS344_CUDA_Programs
 
-This repository contains source code for the CUDA Projects from CS344 Intro to Parallel Programming on Udacity
+This repository contains source code for the CUDA accelerated Image Processing and sample CUDA Tutorials
